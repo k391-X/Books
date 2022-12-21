@@ -1,0 +1,13 @@
+STT	|	Tên Thư Mục	|		Chức Năng		|	Số Quyển	|	Ghi Chú
+1		Process			Những quyển sách đang đọc		4			
+
+2		Repeat			Những quyển sách cần đọc lại		0		  Đọc Từ 3 Lần Trở Lên Sẽ Chuyển Sang Buy	
+
+3		Buy			Những Quyển Sách Cần Mua		0		  Chuyển Từ Repeat Sang
+
+4 		Skill			Những Quyển Sách Kĩ Năng		..		  Nhiều Thư Mục Chứa Con
+
+5		Novel			Tiểu Thuyết				3	
+
+
+
